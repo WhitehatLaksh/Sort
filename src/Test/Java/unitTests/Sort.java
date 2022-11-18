@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
-public class Wingify {
+public class Sort {
     private static ChromeDriver driver;
     WebElement p = null;
 
